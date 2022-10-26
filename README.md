@@ -12,9 +12,9 @@ The forearm and hand can operate as a stand-alone unit allowing unlimited axial 
 
 Some notes on printing:
 
-Designed and tested for high speed printing using a 0.6mm diameter nozzle and 0.4mm layer thickness except for the tendon spools (three type of Tendon_Spool_01 supplied, ymmv) and tendon hanger which benefit from printing at 0.3mm layer thickness or better.
+Designed and tested for high speed printing using a 0.6mm diameter nozzle and 0.4mm layer thickness except for the tendon spools and split parts of the palm sections which benefit from printing at 0.3mm layer thickness or better.
 
-Test printed in CF nylon with 0.6mm nozzle and 0.4mm layer for structural components. 
+Test printed in PETG and CF nylon with 0.6mm nozzle and 0.4mm layer for structural components. 
 
 To finish 3d prints to a high standard requires a fine sandpaper or emery board.
 
