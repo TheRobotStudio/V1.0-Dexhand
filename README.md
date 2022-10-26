@@ -1,6 +1,6 @@
 # Dexhand
 
-Made entirely by #3dprinting with additional total cost of components required for the hand starting at around $300 USD.
+Made entirely by 3dprinting with additional total cost of components required for the hand starting at around $300 USD.
 
 The #cad for the arm and hand is freely and publically available down to a parasolid level at:
 
