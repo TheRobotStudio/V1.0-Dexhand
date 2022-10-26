@@ -1,8 +1,10 @@
 # Dexhand
 
+Version 18c - fully test printed some minor updates still required to finalise the tendon routing in the hand.
+
 Made entirely by 3dprinting with additional total cost of components required for the hand starting at around $300 USD.
 
-The #cad for the arm and hand is freely and publically available down to a parasolid level at:
+The cad for the arm and hand is freely and publically available down to a parasolid level at:
 
 https://cad.onshape.com/documents/16c809d35214bd31c5b0324f/w/56b2fb82f7bdce505771766f/e/df78e66574dc7dbd45e4826c?renderMode=0&uiState=6358f3f91587a72417a28b1c
 
