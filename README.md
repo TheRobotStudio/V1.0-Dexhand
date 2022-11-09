@@ -2,7 +2,9 @@
 
 Version 18c - fully test printed some minor updates still required to finalise the tendon routing in the hand.
 
-Made entirely by 3dprinting with additional total cost of components required for the hand starting at around $300 USD.
+To download the stl files click the green button above on the right to drop down the Code menu. At the bottom click Download Zip.
+
+The hand is made entirely by 3dprinting with additional total cost of components required for the hand starting at around $300 USD.
 
 The cad for the arm and hand is freely and publically available down to a parasolid level at:
 
