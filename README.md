@@ -20,6 +20,8 @@ Test printed in PETG and CF nylon with 0.6mm nozzle and 0.4mm layer for structur
 
 To finish 3d prints to a high standard requires a fine sandpaper or emery board.
 
+The amazon links below will open to product pages that are related to building high quality robots. Please consider buying via the Amazon links where available to help fund the robot development.
+
 Diamond coated steel nail files are a handy tool: https://amzn.to/3VBBsOX
 
 Though my favourite diamond file is actually intended for maintaining whetstones, just a nice big expanse of diamond to use :-)
@@ -29,8 +31,6 @@ Though my favourite diamond file is actually intended for maintaining whetstones
 - Amazon US: https://amzn.to/3eN3bvo
 
 Additional components required are listed below.
-
-Please consider buying via the Amazon links where available to help fund the robot development.
 
 The biggest cost item are the servos:
 
