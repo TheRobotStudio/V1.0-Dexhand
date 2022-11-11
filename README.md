@@ -68,51 +68,47 @@ The rest of the components are relatively inexpensive:
 
 Otherwise kits are available on Amazon:
 
-UK: https://amzn.to/3SfoC5Q
-FR: https://amzn.to/3D9QkwI
-US: https://amzn.to/3VYrnfh
+- UK: https://amzn.to/3SfoC5Q
+- FR: https://amzn.to/3D9QkwI
+- US: https://amzn.to/3VYrnfh
 
 M2 screw and washer kits, or also in Europe from https://www.visseriefixations.fr
 
-UK: https://amzn.to/3gk2MB6
-FR: https://amzn.to/3VPF9AK
-US: https://amzn.to/3sf4NkE
+ -UK: https://amzn.to/3gk2MB6
+ -FR: https://amzn.to/3VPF9AK
+- US: https://amzn.to/3sf4NkE
 
 M2 brass threaded inserts M2 x 4mm long x 3.5mm
 Note that the type required has a plain section between the knurled ends to allow attachment of the tendon in the fingertip.
-UK: https://amzn.to/3D9mTeb
-FR: https://amzn.to/3giNcFY
-US: https://amzn.to/3yYl1lY
+ -UK: https://amzn.to/3D9mTeb
+- FR: https://amzn.to/3giNcFY
+- US: https://amzn.to/3yYl1lY
 
 Kite or fishing line for tendons and ligaments - Sufix 832 is the best I know of for longevity, the 80lbs breaking strength is stiff enough to thread easily and most readily available in the US.
-UK: https://amzn.to/3VCbs5T
-FR: https://amzn.to/3TsDsHa
-US: https://amzn.to/3DgjNoF
+- UK: https://amzn.to/3VCbs5T
+- FR: https://amzn.to/3TsDsHa
+- US: https://amzn.to/3DgjNoF
 
 Ball Bearings 6*10*3 - Need 50 for a hand, packs of 10 available which are enough for the sample finger.
 
-UK: https://amzn.to/3CMa7Ry
-
-FR: https://amzn.to/3Tw9x0P
-
-US: https://amzn.to/3Dj7cBn
+- UK: https://amzn.to/3CMa7Ry
+- FR: https://amzn.to/3Tw9x0P
+- US: https://amzn.to/3Dj7cBn
 
 Ball Bearings 2x6x3 or 2x6x2.5 - Need 6 for a wrist.
 
-UK: https://amzn.to/3gggdBU
-
-FR: https://amzn.to/3TDgTQj
-
-US: https://amzn.to/3yYlTHg
+- UK: https://amzn.to/3gggdBU
+- FR: https://amzn.to/3TDgTQj
+- US: https://amzn.to/3yYlTHg
 
 Ball Bearings 15x21x4 - Need 4 for a wrist.
 
-UK: https://amzn.to/3skHiXj
-FR: https://amzn.to/3Dh9sJf
+- UK: https://amzn.to/3skHiXj
+- FR: https://amzn.to/3Dh9sJf
 US: https://amzn.to/3TsMSTO
 
 ptfe tubing 2mm OD 1mm ID, sold for 3dprinters, a metre will do if you're careful.
 
-UK: https://amzn.to/3Sl0Gya
-FR:https://amzn.to/3DbNruj
-US: https://amzn.to/3SmB4RB
+- UK: https://amzn.to/3Sl0Gya
+- FR:https://amzn.to/3DbNruj
+- US: https://amzn.to/3SmB4RB
