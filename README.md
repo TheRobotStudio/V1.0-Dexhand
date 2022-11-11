@@ -81,7 +81,7 @@ M2 screw and washer kits, or also in Europe from https://www.visseriefixations.f
 M2 brass threaded inserts M2 x 4mm long x 3.5mm
 Note that the type required has a plain section between the knurled ends to allow attachment of the tendon in the fingertip.
 
- -UK: https://amzn.to/3D9mTeb
+- UK: https://amzn.to/3D9mTeb
 - FR: https://amzn.to/3giNcFY
 - US: https://amzn.to/3yYl1lY
 
