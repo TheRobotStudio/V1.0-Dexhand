@@ -67,16 +67,18 @@ The rest of the components are relatively inexpensive:
 2mm diameter steel pins - alternatively cut lengths from a wire coat hanger or in Europe order direct from https://www.visseriefixations.fr/goup...
 
 Otherwise kits are available on Amazon:
+
 UK: https://amzn.to/3SfoC5Q
 FR: https://amzn.to/3D9QkwI
 US: https://amzn.to/3VYrnfh
 
 M2 screw and washer kits, or also in Europe from https://www.visseriefixations.fr
+
 UK: https://amzn.to/3gk2MB6
 FR: https://amzn.to/3VPF9AK
 US: https://amzn.to/3sf4NkE
 
-M2 brass threaded inserts M2 * 4mm long * 3.5mm
+M2 brass threaded inserts M2 x 4mm long x 3.5mm
 Note that the type required has a plain section between the knurled ends to allow attachment of the tendon in the fingertip.
 UK: https://amzn.to/3D9mTeb
 FR: https://amzn.to/3giNcFY
