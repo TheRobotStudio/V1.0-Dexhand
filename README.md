@@ -80,11 +80,13 @@ M2 screw and washer kits, or also in Europe from https://www.visseriefixations.f
 
 M2 brass threaded inserts M2 x 4mm long x 3.5mm
 Note that the type required has a plain section between the knurled ends to allow attachment of the tendon in the fingertip.
+
  -UK: https://amzn.to/3D9mTeb
 - FR: https://amzn.to/3giNcFY
 - US: https://amzn.to/3yYl1lY
 
 Kite or fishing line for tendons and ligaments - Sufix 832 is the best I know of for longevity, the 80lbs breaking strength is stiff enough to thread easily and most readily available in the US.
+
 - UK: https://amzn.to/3VCbs5T
 - FR: https://amzn.to/3TsDsHa
 - US: https://amzn.to/3DgjNoF
@@ -105,7 +107,7 @@ Ball Bearings 15x21x4 - Need 4 for a wrist.
 
 - UK: https://amzn.to/3skHiXj
 - FR: https://amzn.to/3Dh9sJf
-US: https://amzn.to/3TsMSTO
+- US: https://amzn.to/3TsMSTO
 
 ptfe tubing 2mm OD 1mm ID, sold for 3dprinters, a metre will do if you're careful.
 
