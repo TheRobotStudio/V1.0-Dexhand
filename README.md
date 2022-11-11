@@ -74,8 +74,8 @@ Otherwise kits are available on Amazon:
 
 M2 screw and washer kits, or also in Europe from https://www.visseriefixations.fr
 
- -UK: https://amzn.to/3gk2MB6
- -FR: https://amzn.to/3VPF9AK
+- UK: https://amzn.to/3gk2MB6
+- FR: https://amzn.to/3VPF9AK
 - US: https://amzn.to/3sf4NkE
 
 M2 brass threaded inserts M2 x 4mm long x 3.5mm
