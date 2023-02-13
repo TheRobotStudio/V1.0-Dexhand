@@ -2,7 +2,15 @@
 
 Version 18c - fully test printed some minor updates still required to finalise the tendon routing in the hand.
 
-The final stl files as used for the CES demonstration prototype are now uploaded in the post CES 2023 folder though the tendon routing was still done by hand using polymorph modelling plastic. There are two main forearm structure files, Bulk and Split and additonally two shells, one to cover the servos in the palm and one to cover the outside of the forearm and seal over the electronics and battery compartment. The forearm shell clips over the Bulk forearm print and requires the Forearm_Duplex_Wrist_18i_Split_a print for clearance. This version of the Split print also has mounting holes for the battery springs and an external hole to mount a 16mm latching push button switch to turn the hand on and off.
+The final stl files as used for the CES demonstration prototype are now uploaded in the post CES 2023 folder though the tendon routing was still done by hand using polymorph modelling plastic.
+
+There are two main forearm structure files, Bulk and Split and additonally two shells, one to cover the servos in the palm and one to cover the outside of the forearm and seal over the electronics and battery compartment.
+
+The forearm shell clips over the Bulk forearm print and requires the Forearm_Duplex_Wrist_18i_Split_a print for clearance.
+
+This version of the Split print also has mounting holes for the battery springs and an external hole to mount a 16mm latching push button switch to turn the hand on and off.
+
+As the thin shell can be difficult to print there is also an alternative battery cover with screw hole and front clip added. This screw hole aligns with one of the corner holes in the dc-dc converter so can be used to secure both the cover and the converter at the same time. The Bulk structure does not have the hole included so this will need to be added manually during assembly.
 
 To download the stl files click the green button above on the right to drop down the Code menu. At the bottom click Download Zip.
 
