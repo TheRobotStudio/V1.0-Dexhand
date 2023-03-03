@@ -1,10 +1,10 @@
 # Dexhand
 
-Version 18c - fully test printed some minor updates still required to finalise the tendon routing in the hand.
-
 The final stl files as used for the CES demonstration prototype are now uploaded in the post CES 2023 folder though the tendon routing was still done by hand using polymorph modelling plastic.
 
-There are two main forearm structure files, Bulk and Split and additonally two shells, one to cover the servos in the palm and one to cover the outside of the forearm and seal over the electronics and battery compartment.
+Replace the Bulk and Split files in Version 18c - all other parts are test printed. Some minor updates still required to finalise the tendon routing in the hand.
+
+There are two main forearm structure files, Bulk and Split and additionally two shells, one to cover the servos in the palm and one to cover the outside of the forearm and seal over the electronics and battery compartment.
 
 The forearm shell clips over the Bulk forearm print and requires the Forearm_Duplex_Wrist_18i_Split_a print for clearance.
 
