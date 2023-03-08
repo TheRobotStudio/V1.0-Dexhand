@@ -1,6 +1,6 @@
 # Dexhand
 
-As a naming convention the forearm parts consist of a bulk, a split, inserts and shells.
+As a naming convention the forearm parts consist of a bulk, a split, inserts and shells - the stl files are in the Post CES 2023 folder.
 
 The bulk is typically the larger of the forearm prints and houses the servos and other components.
 
