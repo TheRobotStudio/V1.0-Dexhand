@@ -1,6 +1,6 @@
 # V1.0-Dexhand
 
-As a naming convention the forearm parts consist of a bulk, a split, inserts and shells - the stl files are in the Post CES 2023 folder.
+As a naming convention the forearm parts consist of a bulk, a split, inserts and shells - the stl files are in the Forearm folder.
 
 The bulk is typically the larger of the forearm prints and houses the servos and other components.
 
@@ -10,7 +10,7 @@ Inserts are detachable pieces necessary to assemble pieces inside the structure 
 
 Shells are thin coverings that cover over openings in the main structure.
 
-Print all the files in the Post CES 2023 folder to make the forearm. The battery cover is optional and in practice the bulk shell seals all the components adequately if well printed.
+Print all the files in the Forearm folder to make the forearm. The battery cover is optional and in practice the bulk shell seals all the components adequately if well printed.
 
 Some minor updates still required to finalise the tendon routing in the forearm and hand.
 
